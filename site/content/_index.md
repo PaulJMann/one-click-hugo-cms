@@ -1,5 +1,5 @@
 ---
-title: Test Site
+title: Lelia's scallywag site
 subtitle: Support sustainable farming while enjoying a cup of Joe
 image: /img/home-jumbotron.jpg
 blurb:
